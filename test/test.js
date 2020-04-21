@@ -1,5 +1,4 @@
-const parse = require('../src/parse')
-const stringify = require('../src/stringify')
+const { parse, stringify } = require('../index')
 
 test('parse', () => {
   let html = '<div><p>Hello, World</p></div>'
