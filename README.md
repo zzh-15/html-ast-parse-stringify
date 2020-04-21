@@ -51,7 +51,7 @@ console.log(stringify(ast))
 * `type`: 节点类型(tag)
 * `name`: 标签名
 * `attrs`: 属性数组
-* `childrens`: 子结点数组
+* `childrens`: 子节点数组
 
 ### 文本
 * `type`: 节点类型(text)
