@@ -4,7 +4,7 @@
 ## 安装
 ---
 ```
-npm install html-ast-parse-stringify
+npm install html-ast-parse-stringify --save
 ```
 
 ## 使用
