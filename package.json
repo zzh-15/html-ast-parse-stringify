@@ -1,5 +1,5 @@
 {
-  "name": "html-parse-stringify",
+  "name": "html-ast-parse-stringify",
   "version": "1.0.0",
   "description": "将html解析为ast",
   "main": "index.js",
